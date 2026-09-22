@@ -3,3 +3,4 @@
 ||facebook.com^
 ||instagram.com^
 ||tiktok.com^
+||x.com^
